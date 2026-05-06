@@ -164,7 +164,7 @@ A new Group Policy Object named IT Security Policy was created and linked to the
 
 The IT Security Policy GPO was successfully linked and enabled for the IT Organizational Unit.
 
-![Step 17](Step22.png.png)
+![Step 17](step22.png.png)
 
 ---
 
@@ -172,7 +172,7 @@ The IT Security Policy GPO was successfully linked and enabled for the IT Organi
 
 The Group Policy Management Editor was used to access password policy settings.
 
-![Step 18](Step23.png.png)
+![Step 18](step23.png.png)
 
 ---
 
@@ -180,7 +180,7 @@ The Group Policy Management Editor was used to access password policy settings.
 
 Password complexity requirements were enabled to strengthen account security.
 
-![Step 19](Step24.png.png)
+![Step 19](step24.png.png)
 
 ---
 
@@ -188,7 +188,7 @@ Password complexity requirements were enabled to strengthen account security.
 
 A machine inactivity limit was configured to automatically lock the system after 900 seconds.
 
-![Step 20](Step25.png.png)
+![Step 20](step25.png.png)
 
 ---
 
