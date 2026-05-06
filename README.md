@@ -148,7 +148,7 @@ Group Policy Management was opened to manage domain and organizational unit poli
 
 The lab.local domain was visible in Group Policy Management with testVM listed as the domain controller.
 
-![Step 15](Step20.png.png)
+![Step 15](step20.png.png)
 
 ---
 
