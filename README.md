@@ -64,3 +64,65 @@ The AD DS installation settings and required management tools were confirmed bef
 ![Step 5](Step5.png.png)
 
 ---
+# Step 6 - AD DS Installation Progress
+
+The installation process completed successfully and installed the required Active Directory services and management tools.
+
+![Step 6](Step6.png.png)
+
+---
+
+# Step 7 - Promote Server to Domain Controller
+
+The server was promoted to a Domain Controller using the Active Directory Domain Services Configuration Wizard.
+
+![Step 7](Step7.png.png)
+
+---
+
+# Step 8 - Configure New Forest
+
+A new Active Directory forest named lab.local was created.
+
+![Step 8](Step8.png.png)
+
+---
+
+# Step 9 - Verify AD DS Deployment
+
+The AD DS role and services were successfully installed and visible in Server Manager.
+
+![Step 9](Step9.png.png)
+
+---
+
+# Step 10 - Open Active Directory Administrative Tools
+
+Administrative tools such as Active Directory Users and Computers were launched to begin managing the domain environment.
+
+![Step 10](Step10.png.png)
+
+---
+
+# Step 11 - Create Organizational Units (OUs)
+
+Organizational Units were created to organize users and systems by department.
+
+Examples:
+- HR
+- Finance
+- IT
+- Sales
+- Workstations
+
+![Step 11](Step11.png.png)
+
+---
+
+# Step 12 - Verify Organizational Units
+
+The Organizational Units were successfully created and displayed within Active Directory Users and Computers.
+
+![Step 12](Step13.png.png)
+
+---
