@@ -126,3 +126,94 @@ The Organizational Units were successfully created and displayed within Active D
 ![Step 12](Step13.png.png)
 
 ---
+Add Active Directory deployment steps
+
+# Step 13 - Create Active Directory User
+
+A new user account was created in Active Directory Users and Computers.
+
+![Step 13](Step15.png.png)
+
+---
+
+# Step 14 - Open Group Policy Management
+
+Group Policy Management was opened to manage domain and organizational unit policies.
+
+![Step 14](Step16.png.png)
+
+---
+
+# Step 15 - Verify Domain in Group Policy Management
+
+The lab.local domain was visible in Group Policy Management with testVM listed as the domain controller.
+
+![Step 15](Step20.png.png)
+
+---
+
+# Step 16 - Create and Link IT Security Policy
+
+A new Group Policy Object named IT Security Policy was created and linked to the IT Organizational Unit.
+
+![Step 16](step21.png.png)
+
+---
+
+# Step 17 - Verify IT Security Policy Link
+
+The IT Security Policy GPO was successfully linked and enabled for the IT Organizational Unit.
+
+![Step 17](Step22.png.png)
+
+---
+
+# Step 18 - Configure Password Policy
+
+The Group Policy Management Editor was used to access password policy settings.
+
+![Step 18](Step23.png.png)
+
+---
+
+# Step 19 - Enable Password Complexity
+
+Password complexity requirements were enabled to strengthen account security.
+
+![Step 19](Step24.png.png)
+
+---
+
+# Step 20 - Configure Machine Inactivity Lock
+
+A machine inactivity limit was configured to automatically lock the system after 900 seconds.
+
+![Step 20](Step25.png.png)
+
+---
+
+# Key Takeaways
+
+This lab helped demonstrate hands-on experience with:
+
+- Deploying a Windows Server virtual machine in Microsoft Azure
+- Installing Active Directory Domain Services
+- Promoting a server to a Domain Controller
+- Creating and organizing Active Directory Organizational Units
+- Creating and managing user accounts
+- Creating and linking Group Policy Objects
+- Configuring password and workstation security policies
+
+---
+
+# Skills Demonstrated
+
+- Microsoft Azure
+- Windows Server Administration
+- Active Directory Domain Services
+- Active Directory Users and Computers
+- Group Policy Management
+- User Account Management
+- Organizational Unit Management
+- Security Policy Configuration
+- Basic Identity and Access Management
