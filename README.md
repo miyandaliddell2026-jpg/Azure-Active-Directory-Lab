@@ -140,7 +140,7 @@ A new user account was created in Active Directory Users and Computers.
 
 Group Policy Management was opened to manage domain and organizational unit policies.
 
-<img src="Step14.png.png" width="700">
+<img src="step14.png.png" width="700">
 
 ---
 
