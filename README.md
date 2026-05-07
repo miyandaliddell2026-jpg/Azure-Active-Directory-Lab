@@ -123,7 +123,7 @@ Examples:
 
 The Organizational Units were successfully created and displayed within Active Directory Users and Computers.
 
-<img src="step12.png.png" width="700">
+<img src="images/Step12.png.png" width="700">
 
 ---
 Add Active Directory deployment steps
@@ -140,7 +140,7 @@ A new user account was created in Active Directory Users and Computers.
 
 Group Policy Management was opened to manage domain and organizational unit policies.
 
-<img src="step14.png.png" width="700">
+<img src="images/Step14.png.png" width="700">
 
 ---
 
