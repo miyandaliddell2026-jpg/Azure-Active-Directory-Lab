@@ -29,7 +29,7 @@ This lab was built to strengthen hands-on skills in:
 
 A Windows Server 2025 virtual machine was created in Microsoft Azure to host the Active Directory environment.
 
-![Step 1](Step1.png.png)
+<img src="Step1.png.png" width="700">
 
 ---
 
@@ -37,7 +37,7 @@ A Windows Server 2025 virtual machine was created in Microsoft Azure to host the
 
 Remote Desktop Protocol (RDP) was used to securely connect to the Windows Server virtual machine.
 
-![Step 2](Step2.png.png)
+<img src="Step2.png.png" width="700">
 
 ---
 
@@ -45,7 +45,7 @@ Remote Desktop Protocol (RDP) was used to securely connect to the Windows Server
 
 After connecting to the server, Server Manager was used to begin configuring Active Directory services.
 
-![Step 3](Step3.png.png)
+<img src="Step3.png.png" width="700">
 
 ---
 
@@ -53,7 +53,7 @@ After connecting to the server, Server Manager was used to begin configuring Act
 
 The Active Directory Domain Services role was selected and installed through the Add Roles and Features Wizard.
 
-![Step 4](Step4.png.png)
+<img src="Step4.png.png" width="700">
 
 ---
 
@@ -61,14 +61,14 @@ The Active Directory Domain Services role was selected and installed through the
 
 The AD DS installation settings and required management tools were confirmed before deployment.
 
-![Step 5](Step5.png.png)
+<img src="Step5.png.png" width="700">
 
 ---
 # Step 6 - AD DS Installation Progress
 
 The installation process completed successfully and installed the required Active Directory services and management tools.
 
-![Step 6](Step6.png.png)
+<img src="Step6.png.png" width="700">
 
 ---
 
@@ -76,7 +76,7 @@ The installation process completed successfully and installed the required Activ
 
 The server was promoted to a Domain Controller using the Active Directory Domain Services Configuration Wizard.
 
-![Step 7](Step7.png.png)
+<img src="Step7.png.png" width="700">
 
 ---
 
@@ -84,7 +84,7 @@ The server was promoted to a Domain Controller using the Active Directory Domain
 
 A new Active Directory forest named lab.local was created.
 
-![Step 8](Step8.png.png)
+<img src="Step8.png.png" width="700">
 
 ---
 
@@ -92,7 +92,7 @@ A new Active Directory forest named lab.local was created.
 
 The AD DS role and services were successfully installed and visible in Server Manager.
 
-![Step 9](Step9.png.png)
+<img src="Step9.png.png" width="700">
 
 ---
 
@@ -100,7 +100,7 @@ The AD DS role and services were successfully installed and visible in Server Ma
 
 Administrative tools such as Active Directory Users and Computers were launched to begin managing the domain environment.
 
-![Step 10](Step10.png.png)
+<img src="Step10.png.png" width="700">
 
 ---
 
@@ -115,7 +115,7 @@ Examples:
 - Sales
 - Workstations
 
-![Step 11](Step11.png.png)
+<img src="Step11.png.png" width="700">
 
 ---
 
@@ -123,7 +123,7 @@ Examples:
 
 The Organizational Units were successfully created and displayed within Active Directory Users and Computers.
 
-![Step 12](Step13.png.png)
+<img src="Step12.png.png" width="700">
 
 ---
 Add Active Directory deployment steps
@@ -132,7 +132,7 @@ Add Active Directory deployment steps
 
 A new user account was created in Active Directory Users and Computers.
 
-![Step 13](Step15.png.png)
+<img src="Step13.png.png" width="700">
 
 ---
 
@@ -140,7 +140,7 @@ A new user account was created in Active Directory Users and Computers.
 
 Group Policy Management was opened to manage domain and organizational unit policies.
 
-![Step 14](Step16.png.png)
+<img src="Step14.png.png" width="700">
 
 ---
 
@@ -148,7 +148,7 @@ Group Policy Management was opened to manage domain and organizational unit poli
 
 The lab.local domain was visible in Group Policy Management with testVM listed as the domain controller.
 
-![Step 15](step20.png.png)
+<img src="Step15.png.png" width="700">
 
 ---
 
@@ -156,7 +156,7 @@ The lab.local domain was visible in Group Policy Management with testVM listed a
 
 A new Group Policy Object named IT Security Policy was created and linked to the IT Organizational Unit.
 
-![Step 16](step21.png.png)
+<img src="Step16.png.png" width="700">
 
 ---
 
@@ -164,7 +164,7 @@ A new Group Policy Object named IT Security Policy was created and linked to the
 
 The IT Security Policy GPO was successfully linked and enabled for the IT Organizational Unit.
 
-![Step 17](step22.png.png)
+<img src="step20.png.png" width="700">
 
 ---
 
@@ -172,7 +172,7 @@ The IT Security Policy GPO was successfully linked and enabled for the IT Organi
 
 The Group Policy Management Editor was used to access password policy settings.
 
-![Step 18](step23.png.png)
+<img src="step21.png.png" width="700">
 
 ---
 
@@ -180,7 +180,7 @@ The Group Policy Management Editor was used to access password policy settings.
 
 Password complexity requirements were enabled to strengthen account security.
 
-![Step 19](step24.png.png)
+<img src="step22.png.png" width="700">
 
 ---
 
@@ -188,7 +188,7 @@ Password complexity requirements were enabled to strengthen account security.
 
 A machine inactivity limit was configured to automatically lock the system after 900 seconds.
 
-![Step 20](step25.png.png)
+<img src="step23.png.png" width="700">
 
 ---
 
